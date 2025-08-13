@@ -1,6 +1,9 @@
+/*add roboto font*/
+
 * {
     margin: 0;
     padding: 0;
+    /* add roboto font styling */
 }
 
 :root {
