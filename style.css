@@ -31,6 +31,13 @@
 .header-bottom-right
 */
 
+.header-btn {
+    color: var(--white-bg-color);
+    background-color: var(--blue-bg-color);
+    border: none;
+    border-radius: 20px;
+    padding: 1em;
+}
 
 .sidebar{
     background-color: var(--blue-bg-color);
