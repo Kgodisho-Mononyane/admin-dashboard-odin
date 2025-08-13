@@ -36,7 +36,8 @@
     background-color: var(--blue-bg-color);
     border: none;
     border-radius: 20px;
-    padding: 1em;
+    padding: 0.8em;
+    /* make button sizes uniform */
 }
 
 .sidebar{
