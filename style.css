@@ -4,8 +4,8 @@
 }
 
 :root {
-    --blue: blue;
     --yellow: yellow;
+    --blue-bg-color: blue;
     --white-bg-color: white;
     --gray-bg-color: gray;
 }
@@ -14,4 +14,16 @@
     display: grid;
     grid-template-columns: 1fr 1fr;
     grid-template-rows: 1fr 1fr;
+}
+
+.header{
+    background-color: var(--white-bg-color);
+}
+
+.sidebar{
+    background-color: var(--blue-bg-color)
+}
+
+.main{
+    background-color: var(--gray-bg-color);
 }
