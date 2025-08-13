@@ -31,6 +31,13 @@
 .header-bottom-right
 */
 
+.header-bottom-right {
+    display: flex;
+    justify-content: center;
+    gap: 1em;
+    align-items: center;
+}
+
 .header-btn {
     color: var(--white-bg-color);
     background-color: var(--blue-bg-color);
