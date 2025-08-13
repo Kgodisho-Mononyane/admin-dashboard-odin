@@ -2,3 +2,10 @@
     margin: 0;
     padding: 0;
 }
+
+:root {
+    --blue: blue;
+    --yellow: yellow;
+    --white-bg-color: white;
+    --gray-bg-color: gray;
+}
