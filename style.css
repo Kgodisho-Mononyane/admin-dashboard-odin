@@ -4,10 +4,10 @@
 }
 
 :root {
-    --yellow: yellow;
-    --blue-bg-color: blue;
-    --white-bg-color: white;
-    --gray-bg-color: gray;
+    --yellow: #f0b429;
+    --blue-bg-color: #1992d4;
+    --white-bg-color: #ffffff;
+    --gray-bg-color: #e2e8f0;
 }
 
 .container {
