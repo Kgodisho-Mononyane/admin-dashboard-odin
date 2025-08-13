@@ -58,6 +58,18 @@
     grid-template-rows: 1fr 4fr 6fr;
 }
 
+.logo-container {
+    grid-row: 1 / 2;
+}
+
+.link-container-a {
+    grid-row: 2 / 3;
+}
+
+.link-container-b {
+    grid-row: 3 / 4;
+}
+
 .main{
     background-color: var(--gray-bg-color);
     display: grid;
