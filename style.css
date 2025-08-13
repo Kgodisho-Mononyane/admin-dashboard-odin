@@ -62,6 +62,10 @@
     grid-row: 1 / 2;
 }
 
+.logo-text {
+    color: var(--white-bg-color);
+}
+
 .link-container-a {
     grid-row: 2 / 3;
 }
