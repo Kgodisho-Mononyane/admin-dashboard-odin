@@ -20,6 +20,9 @@
 
 .header{
     background-color: var(--white-bg-color);
+    display: grid;
+    grid-template-columns: 2fr 1fr;
+    grid-template-rows: 1fr 1fr;
 }
 
 .sidebar{
