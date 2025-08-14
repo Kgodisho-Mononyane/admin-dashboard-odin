@@ -29,11 +29,18 @@
     grid-template-rows: 1fr 1fr;
 }
 
-/* .header-top-left */
+.header-top-left {
+    display: flex;
+    /* align-items: center;
+    justify-content: center; */
+}
+
+
 .search-input {
     background-color: var(--gray-bg-color);
     border-radius: 10px;
     border: none;
+    height: 2em;
     width: 60%;
     /* make it longer */
 }
