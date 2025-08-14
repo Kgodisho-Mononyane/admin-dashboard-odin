@@ -110,10 +110,11 @@
 .link-container {
     display: flex;
     align-items: center;
+    margin-bottom: 0.5em;
 }
 
 .sidebar-img {
-    height: 2em;
+    height: 1.5em;
     fill: var(--white-bg-color);
 }
 
