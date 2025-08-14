@@ -12,6 +12,7 @@
     --blue-bg-color: #1992d4;
     --white-bg-color: #ffffff;
     --gray-bg-color: #e2e8f0;
+    --border-radius: 0.5em;
 }
 
 .container {
@@ -143,6 +144,7 @@
     grid-template-columns: 3fr 1fr;
     grid-template-rows: 1fr 1fr;
     padding: 1em;
+    gap: 1em;
 }
 
 .projects-section {
@@ -160,7 +162,7 @@
 
 .project {
     background-color: var(--white-bg-color);
-    border-radius: 0.5em;
+    border-radius: var(--border-radius);
     border-left: 0.4em solid var(--yellow);
 }
 
@@ -171,6 +173,7 @@
 
 .announcements-container {
     background-color: var(--white-bg-color);
+    border-radius: var(--border-radius);
 }
 
 /* .trending-container */
