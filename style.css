@@ -190,3 +190,8 @@
 .trending-section {
 
 }
+
+.trending-container {
+    background-color: var(--white-bg-color);
+    border-radius: var(--border-radius);
+}
