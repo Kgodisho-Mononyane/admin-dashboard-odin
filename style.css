@@ -29,6 +29,15 @@
     grid-template-rows: 1fr 1fr;
 }
 
+/* .header-top-left */
+.search-input {
+    background-color: var(--gray-bg-color);
+    border-radius: 10px;
+    border: none;
+    /* make it longer */
+}
+
+
 /* .header-top-left
 .header-top-right
 .header-bottom-left
