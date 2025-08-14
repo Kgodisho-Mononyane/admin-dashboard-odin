@@ -12,6 +12,7 @@
     --blue-bg-color: #1992d4;
     --white-bg-color: #ffffff;
     --gray-bg-color: #e2e8f0;
+    --dark-bg-color: #9da1a8;
     --border-radius: 0.5em;
 }
 
@@ -166,6 +167,10 @@
     border-left: 0.4em solid var(--yellow);
 }
 
+.project-content {
+    color: var(--dark-bg-color);
+}
+
 .announcements-sections {
     grid-area: 1 / 2 / 2 / 3;
     
@@ -174,10 +179,12 @@
 .announcements-container {
     background-color: var(--white-bg-color);
     border-radius: var(--border-radius);
+    padding: 1.3em 1.3em 1.3em 2em;
 }
 
 .announcement-text {
     font-size: 0.8em;
+    color: var(--dark-bg-color);
 }
 
 .trending-section {
