@@ -42,7 +42,6 @@
     border: none;
     height: 2em;
     width: 60%;
-    /* make it longer */
 }
 
 
@@ -154,6 +153,11 @@
     grid-template-rows: 1fr 1fr 1fr;
     /* height: 100%; 
     width: 100%; */
+}
+
+.project {
+    background-color: var(--white-bg-color);
+    border-radius: 0.5em;
 }
 
 .announcements-container {
