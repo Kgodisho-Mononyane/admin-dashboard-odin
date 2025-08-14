@@ -89,7 +89,7 @@
 
 .logo-img {
     height: 2.5em;
-    color: var(--white-bg-color);
+    fill: var(--white-bg-color);
 }
 
 .logo-text {
