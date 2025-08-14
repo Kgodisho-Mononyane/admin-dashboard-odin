@@ -89,7 +89,7 @@
 
 .logo-img {
     height: 2.5em;
-    /* change the color to white */
+    color: var(--white-bg-color);
 }
 
 .logo-text {
@@ -108,6 +108,7 @@
 
 .sidebar-img {
     height: 2em;
+    fill: var(--white-bg-color);
 }
 
 .sidebar-link {
