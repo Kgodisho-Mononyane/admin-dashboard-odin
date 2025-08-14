@@ -81,6 +81,15 @@
 
 .link-container {
     display: flex;
+    align-items: center;
+}
+
+.sidebar-img {
+    height: 2em;
+}
+
+.sidebar-link {
+    height: 2em;
 }
 
 .link-container-b {
