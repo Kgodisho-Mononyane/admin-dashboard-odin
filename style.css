@@ -52,9 +52,14 @@
     height: 1.5em;
 }
 
-/*
+
 .header-bottom-left
-.header-bottom-right
+
+.account-circle-left {
+    height: 3em;
+}
+
+/*.header-bottom-right
 */
 
 .header-bottom-right {
