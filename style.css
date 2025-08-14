@@ -40,7 +40,13 @@
 
 /* .header-top-left */
 
-/* header-top-right */
+.header-top-right {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 1em;
+}
+
 .bell-img,
 .account-circle {
     height: 1.5em;
