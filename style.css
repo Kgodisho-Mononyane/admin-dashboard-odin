@@ -164,7 +164,7 @@
     border-left: 0.4em solid var(--yellow);
 }
 
-.announcements-container {
+.announcements-sections {
     grid-area: 1 / 2 / 2 / 3;
 }
 
