@@ -179,7 +179,7 @@
 .announcements-container {
     background-color: var(--white-bg-color);
     border-radius: var(--border-radius);
-    padding: 1.3em 1.3em 1.3em 2em;
+    padding: 1.3em 0.5em 1.3em 2em;
 }
 
 .announcement-text {
