@@ -166,6 +166,11 @@
 
 .announcements-sections {
     grid-area: 1 / 2 / 2 / 3;
+    
+}
+
+.announcements-container {
+    background-color: var(--white-bg-color);
 }
 
 /* .trending-container */
