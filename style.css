@@ -79,6 +79,10 @@
     grid-row: 2 / 3;
 }
 
+.link-container {
+    display: flex;
+}
+
 .link-container-b {
     grid-row: 3 / 4;
 }
