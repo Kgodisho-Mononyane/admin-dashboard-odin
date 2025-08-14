@@ -160,6 +160,7 @@
 .project {
     background-color: var(--white-bg-color);
     border-radius: 0.5em;
+    border-left: 0.4em solid var(--yellow);
 }
 
 .announcements-container {
