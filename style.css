@@ -125,13 +125,13 @@
 }
 
 .sidebar-img {
-    height: 1.5em;
+    height: 1.3em;
     fill: var(--white-bg-color);
 }
 
 .sidebar-link {
     color: var(--white-bg-color,white);
-    height: 2em;
+    height: 1.5em;
     text-decoration: none;
 }
 
