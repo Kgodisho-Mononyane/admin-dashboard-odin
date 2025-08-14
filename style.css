@@ -99,6 +99,7 @@
 
 .link-container-a {
     grid-row: 2 / 3;
+    margin-top: 1.5em;
 }
 
 .link-container {
@@ -119,6 +120,7 @@
 
 .link-container-b {
     grid-row: 3 / 4;
+    margin-top: 1.5em;
 }
 
 .main{
