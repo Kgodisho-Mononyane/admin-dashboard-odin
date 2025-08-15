@@ -201,6 +201,7 @@
 .trending-container {
     background-color: var(--white-bg-color);
     border-radius: var(--border-radius);
+    padding: 1em 1em 1em 1em;
 }
 
 .trending-user {
