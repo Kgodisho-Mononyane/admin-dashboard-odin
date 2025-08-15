@@ -61,12 +61,16 @@
     display: flex;
     align-items: center;
     justify-content: center;
-    gap: 1em;
+    gap: 0.8em;
 }
 
 .bell-img,
 .account-circle {
-    height: 1.5em;
+    height: 1.6em;
+}
+
+.user-name-right {
+    font-size: 1.3em;
 }
 
 
