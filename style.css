@@ -172,6 +172,12 @@
     color: var(--dark-bg-color);
 }
 
+/* project-imgs-container */
+
+.project-imgs {
+    height: 1.2em;
+}
+
 .announcements-sections {
     grid-area: 1 / 2 / 2 / 3;
     
