@@ -87,6 +87,10 @@
     fill: var(--yellow);
 }
 
+span {
+    font-size: 0.7em;
+}
+
 /*.header-bottom-right
 */
 
