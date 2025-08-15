@@ -247,4 +247,5 @@ span {
 
 .trending-user-name {
     font-size: 0.9em;
+    color: var(--dark-bg-color);
 }
