@@ -189,6 +189,7 @@
 
 .project-content {
     color: var(--dark-bg-color);
+    font-size: 0.8em;
 }
 
 /* project-imgs-container */
