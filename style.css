@@ -146,6 +146,7 @@
     color: var(--white-bg-color,white);
     height: 1.5em;
     text-decoration: none;
+    font-weight: bold;
 }
 
 .link-container-b {
