@@ -63,10 +63,15 @@
 }
 
 
-.header-bottom-left
+.header-bottom-left {
+    display: grid;
+    grid-template-columns: 1fr 11fr;
+    grid-template-rows: 1fr 1fr;
+}
 
 .account-circle-left {
     height: 3em;
+    grid-area: 1 / 1 / 3 / 2;
 }
 
 /*.header-bottom-right
