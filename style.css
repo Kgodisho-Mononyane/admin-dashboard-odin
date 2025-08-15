@@ -42,11 +42,11 @@
 .header-top-left {
     display: flex;
     align-items: center;
-    /* justify-content: center; */
+    padding-left: 1em;
 }
 
 .magnify-img {
-    height: 2em;
+    height: 1.5em;
 }
 
 .search-input {
