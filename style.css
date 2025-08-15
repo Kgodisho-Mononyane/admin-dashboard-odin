@@ -41,17 +41,20 @@
 
 .header-top-left {
     display: flex;
-    /* align-items: center;
-    justify-content: center; */
+    align-items: center;
+    /* justify-content: center; */
 }
 
+.magnify-img {
+    height: 2em;
+}
 
 .search-input {
     background-color: var(--gray-bg-color);
     border-radius: 10px;
     border: none;
     height: 2em;
-    width: 60%;
+    width: 40%;
 }
 
 .header-top-right {
