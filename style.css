@@ -166,6 +166,7 @@
     background-color: var(--white-bg-color);
     border-radius: var(--border-radius);
     border-left: 0.4em solid var(--yellow);
+    padding: 1em 0em 1em 1em;
 }
 
 .project-content {
