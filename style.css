@@ -201,13 +201,14 @@
 .trending-container {
     background-color: var(--white-bg-color);
     border-radius: var(--border-radius);
-    padding: 1em 1em 1em 1em;
+    padding: 1em 1em 1em 1.5em;
 }
 
 .trending-user {
     display: grid;
     grid-template-columns: 1fr 8fr;
     grid-template-rows: 1fr 1fr;
+    column-gap: 0.8em;
 }
 
 .trending-profile-img {
