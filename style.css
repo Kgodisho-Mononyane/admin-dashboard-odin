@@ -202,6 +202,7 @@ span {
 
 .project-imgs {
     height: 1.2em;
+    fill: var(--yellow);
 }
 
 .announcements-sections {
