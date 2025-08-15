@@ -202,3 +202,7 @@
     background-color: var(--white-bg-color);
     border-radius: var(--border-radius);
 }
+
+.trending-profile-img {
+    height: 1.5em;
+}
